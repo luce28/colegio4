@@ -10,6 +10,3 @@ php:
   - hhvm
   - nightly
 
-before_script:
-    
-    - phpenv config-add myconfig.ini
